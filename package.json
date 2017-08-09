@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"hello world\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaveLindberg/davelindberg.github.io.git"
+  },
+  "author": "Dave Lindberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaveLindberg/davelindberg.github.io/issues"
+  },
+  "homepage": "https://github.com/DaveLindberg/davelindberg.github.io#readme",
+  "devDependencies": {
+    "webpack": "^3.5.2"
+  }
+}
