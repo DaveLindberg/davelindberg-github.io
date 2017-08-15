@@ -1,7 +1,9 @@
 ---
-# Front matter comment to ensure Jekyll properly reads file.
 ---
 
+@import "type.scss";
+
+
 html {
-  background-color: yellow;
+  background-color: red;
 }
