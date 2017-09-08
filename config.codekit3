@@ -188,28 +188,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"\/_site\/public\/assets\/css\/style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_site\/public\/assets\/css\/style-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/_site\/public\/feed.xml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/public\/feed.xml",
-		"oF": 0
-		},
-	"\/_site\/public\/jekyll\/update\/2017\/06\/10\/welcome-to-jekyll.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/public\/jekyll\/update\/2017\/06\/10\/welcome-to-jekyll.html",
-		"oF": 0
-		},
 	"\/_site\/README.md": {
 		"cS": 0,
 		"eF": 1,
@@ -227,12 +205,6 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
-		},
-	"\/_site\/src\/jekyll\/update\/2017\/06\/10\/welcome-to-jekyll.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/src\/jekyll\/update\/2017\/06\/10\/welcome-to-jekyll.html",
-		"oF": 0
 		},
 	"\/_site\/webpack.config.js": {
 		"ft": 64,
@@ -367,6 +339,118 @@
 		"oAP": "\/assets\/fonts\/leaguegothic-regular-webfont.woff",
 		"oF": 0
 		},
+	"\/assets\/images\/486968772_fpo.jpg": {
+		"ft": 16384,
+		"iS": 988924,
+		"oA": 0,
+		"oAP": "\/assets\/images\/486968772_fpo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/grassy.jpg": {
+		"ft": 16384,
+		"iS": 598233,
+		"oA": 0,
+		"oAP": "\/assets\/images\/grassy.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/iStock-176759492.jpg": {
+		"ft": 16384,
+		"iS": 3294814,
+		"oA": 0,
+		"oAP": "\/assets\/images\/iStock-176759492.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/iStock-514618014.jpg": {
+		"ft": 16384,
+		"iS": 3134968,
+		"oA": 0,
+		"oAP": "\/assets\/images\/iStock-514618014.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/jimbo.jpg": {
+		"ft": 16384,
+		"iS": 613840,
+		"oA": 0,
+		"oAP": "\/assets\/images\/jimbo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/man_on_beach.psd": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/images\/man_on_beach.psd",
+		"oF": 0
+		},
+	"\/assets\/images\/meshpipe.jpg": {
+		"ft": 16384,
+		"iS": 2288478,
+		"oA": 0,
+		"oAP": "\/assets\/images\/meshpipe.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/mychart-rev.jpg": {
+		"ft": 16384,
+		"iS": 120644,
+		"oA": 0,
+		"oAP": "\/assets\/images\/mychart-rev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/ovr_tile.psd": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/images\/ovr_tile.psd",
+		"oF": 0
+		},
+	"\/assets\/images\/seedlings.jpg": {
+		"ft": 16384,
+		"iS": 1313778,
+		"oA": 0,
+		"oAP": "\/assets\/images\/seedlings.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/signboard.jpg": {
+		"ft": 16384,
+		"iS": 3415557,
+		"oA": 0,
+		"oAP": "\/assets\/images\/signboard.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/sky.jpg": {
+		"ft": 16384,
+		"iS": 547842,
+		"oA": 0,
+		"oAP": "\/assets\/images\/sky.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/javascripts\/bundle.js": {
 		"ft": 64,
 		"ma": 0,
@@ -435,28 +519,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"\/public\/assets\/css\/style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/public\/assets\/css\/style-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/public\/feed.xml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/feed.xml",
-		"oF": 0
-		},
-	"\/public\/jekyll\/update\/2017\/06\/10\/welcome-to-jekyll.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/jekyll\/update\/2017\/06\/10\/welcome-to-jekyll.html",
-		"oF": 0
-		},
 	"\/README.md": {
 		"cS": 0,
 		"eF": 1,
@@ -474,12 +536,6 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
-		},
-	"\/src\/jekyll\/update\/2017\/06\/10\/welcome-to-jekyll.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/jekyll\/update\/2017\/06\/10\/welcome-to-jekyll.html",
-		"oF": 0
 		},
 	"\/webpack.config.js": {
 		"ft": 64,
