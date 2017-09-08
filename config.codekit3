@@ -389,6 +389,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/images\/man_on_beach.jpg": {
+		"ft": 16384,
+		"iS": 970166,
+		"oA": 0,
+		"oAP": "\/assets\/images\/man_on_beach.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/images\/man_on_beach.psd": {
 		"ft": 8192,
 		"oA": 2,
@@ -410,6 +420,16 @@
 		"iS": 120644,
 		"oA": 0,
 		"oAP": "\/assets\/images\/mychart-rev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/ovr_tile.jpg": {
+		"ft": 16384,
+		"iS": 138778,
+		"oA": 0,
+		"oAP": "\/assets\/images\/ovr_tile.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
